@@ -1,0 +1,20 @@
+{
+  "name": "bitcoinblocktimedelta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bclient": "^0.1.7",
+    "bcrypto": "^5.4.0",
+    "bhn": "^0.0.2",
+    "bval": "^0.1.6",
+    "layout": "^2.2.0",
+    "level": "^7.0.1"
+  }
+}
